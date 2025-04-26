@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #eee;
+  margin: 0;
+}
+section {
+  background-color: coral;
+  height: 100vh;
+}
+section span {
+  margin: 0;
+  text-align: center;
+  line-height: 1;
+  display: block;
+  font-weight: 600;
+  font-size: 300;
+  padding-top: calc(50vh - 20pt);
+}
