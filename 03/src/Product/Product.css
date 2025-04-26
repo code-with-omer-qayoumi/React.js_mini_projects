@@ -1,0 +1,36 @@
+.card {
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  height: auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+.price {
+  color: gray;
+  font-size: 22px;
+}
+button {
+  border: none;
+  outline: 0;
+  padding: 10px 0;
+  background-color: black;
+  text-align: center;
+  font-size: 18px;
+  cursor: pointer;
+  color: #fff;
+  width: 100%;
+  transition: all 0.2 linear;
+  -webkit-transition: all 0.2 linear;
+  -moz-transition: all 0.2 linear;
+  -ms-transition: all 0.2 linear;
+  -o-transition: all 0.2 linear;
+}
+button:hover {
+  opacity: 0.7;
+}
+img {
+  width: 100%;
+}
+h2 {
+  text-align: center;
+}
